@@ -1,0 +1,9 @@
+Complaint ID: 3
+User ID: 1
+Region: west
+Category: street light problem
+Subcategory: complaint for maintenance and repair of street light
+Description: blinking street light
+Address: lju
+Status: Resolved
+---------------------------------------------------

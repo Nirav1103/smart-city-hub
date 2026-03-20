@@ -1,0 +1,9 @@
+Complaint ID: 1
+User ID: 1
+Region: east
+Category: garbage an sanitation problem
+Subcategory: complaint for cleaning road
+Description: to much very too much garbage in our college road
+Address: LJ university road
+Status: Resolved
+---------------------------------------------------
